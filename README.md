@@ -1,19 +1,23 @@
-### Hi there, 안녕하세요? 👋
+### Hi there, 안녕하세요? 👋🐢
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SIWON-PARK&fontSize=60&fontAlignY=40&animation=twinkling)
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white"/>
 </p>
 
 <h3 align="center">Favorite IDE</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=flat&logo=atom&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
 </p>
+<br>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siwon-park&layout=compact&theme=ayu-mirage)](https://github.com/siwon-park/github-readme-stats)
 
 <br>
 
@@ -24,7 +28,7 @@
     - 💊GreenCross 🏢MasterPlan 2.0
     - 💊GreenCross 🏢Enterprise PI Planning
     - 💊GreenCross 🏢Enterprise PI for ERP
-- 🔭 I’m currently on SSAFY_7th (2022.01 ~ )
+- 🔭 I’m currently on 7️⃣SSAFY_7th (2022.01 ~ )
 - 🌱 I’m currently learning Python, Java etc...
 - 🤔 I’m interested in Problem Solving, Reading, Movies, Exercising
 - 💬 Ask me about anything you want to ask me
