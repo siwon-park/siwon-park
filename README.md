@@ -8,11 +8,12 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src=https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D/>
 </p>
 
 <h3 align="center">Favorite IDE</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=flat&logo=atom&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Atom-3DDC84.svg?style=flat&logo=atom&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
 </p>
@@ -30,7 +31,7 @@
     - 💊GreenCross 🏢Enterprise PI Planning
     - 💊GreenCross 🏢Enterprise PI for ERP
 - 🔭 I’m currently on 7️⃣SSAFY_7th (2022.01 ~ )
-- 🌱 I’m currently learning Python, Java etc...
+- 🌱 I’m currently learning Python, Django, Java, Spring, Vue etc...
 - 🤔 I’m interested in Problem Solving, Reading, Movies, Exercising
 - 💬 Ask me about anything you want to ask me
 - 📫 How to reach me: zow777@naver.com
