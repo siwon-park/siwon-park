@@ -1,29 +1,29 @@
 ### Hi there, 안녕하세요? 👋🐢
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SIWON-PARK&fontSize=60&fontAlignY=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SIWON-PARK&fontSize=60&fontAlignY=40&animation=twinkling)
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <div align="center">
-  <div class="row">
-    <div class="col">
-      <h4>Back-End</h4>
+  <div>
+    <div>
+      <strong>Back-End: </strong>
       <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
       <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/>
       <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white"/>
     </div>
-    <div class="col">
-      <h4>Front-End</h4>
+    <div>
+      <strong>Front-End: </strong>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
       <img src=https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D/>
     </div>
     <div>
-      <h4>Etc</h4>
+      <strong>Etc: </strong>
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
     </div>
   </div>
 </div>
-
+<br>
 <h3 align="center">Favorite IDE</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Atom-3DDC84.svg?style=flat&logo=atom&logoColor=white"/></a>&nbsp
@@ -34,9 +34,7 @@
 <br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siwon-park&langs_count=8&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
-
 - ✏️ <strong>Education</strong>
     -  🏫CNU (Chungnam National University;Business Managemet, 2012.03 ~ 2018.02)
     -  7️⃣SSAFY_7th (Samsung Software Academy For Youth, 2022.01 ~ )
