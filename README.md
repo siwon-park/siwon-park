@@ -16,6 +16,7 @@
       <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
       <img src=https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D/>
+      <img src=https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB/>
     </div>
     <div>
       <strong>Etc: </strong>
