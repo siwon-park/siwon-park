@@ -39,6 +39,13 @@
 - ✏️ <strong>Education</strong>
     -  🏫CNU (Chungnam National University;Business Managemet, 2012.03 ~ 2018.02)
     -  7️⃣SSAFY_7th (Samsung Software Academy For Youth, 2022.01 ~ )
+- 💼 <strong>Experiences</strong>
+    - Business Operating Consultant (2020.01 ~ 2022.01)
+      - 💊GreenCross 🏭🛠️Plant Management Pjt
+      - 💊GreenCross 🔬🧪Quality-Department(QA, QC, QE, QM) Labor Working Management Pjt
+      - 💊GreenCross 🏢MasterPlan 2.0
+      - 💊GreenCross 🏢Enterprise PI Planning
+      - 💊GreenCross 🏢Enterprise PI for ERP
 - 🏆 <strong>Awards</strong>
     - SSAFY_7th Academic Excellence
     - SSAFY_7th Project Excellence
