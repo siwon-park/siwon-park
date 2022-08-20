@@ -47,7 +47,7 @@
       - 💊GreenCross 🏢Enterprise PI Planning
       - 💊GreenCross 🏢Enterprise PI for ERP
 - 🏆 <strong>Awards</strong>
-    - SSAFY_7th Academic Excellence
-    - SSAFY_7th Project Excellence
+    - SSAFY_7th Academic Excellence (2022.05.27)
+    - SSAFY_7th Project Excellence (2022.05.27)
 - 📫<strong>Contacts</strong>
     - Email: zow777@naver.com
