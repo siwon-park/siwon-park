@@ -1,6 +1,6 @@
 ### Hi there, 안녕하세요? 👋🐢
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SIWON-PARK&fontSize=60&fontAlignY=40&animation=twinkling)
-<div align="center"><a href="https://www.notion.so/9e075eced05a41ef977b869101fdba66" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a></div>
+<div align="center"><a href="https://wholesale-creature-3b3.notion.site/9e075eced05a41ef977b869101fdba66" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a></div>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <div align="center">
   <div>
